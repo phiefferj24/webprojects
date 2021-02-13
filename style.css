@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(202, 238, 255);
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+h1 {
+    margin: 20px;
+    text-align: center;
+    width: 380px;
+}
+.input input[type="button"] {
+    outline: none;
+    border: 1px solid grey;
+    background-color: white;
+    border-radius: 15px;
+    height: 40px;
+    width: 100px;
+    margin: 20px;
+}
+.input input[type="button"]:active {
+    border: none;
+}
+.input input[type="button"]:hover {
+    box-shadow: 0px 0px 5px gray;
+}
+.score {
+    text-align: center;
+    line-height: 200px;
+    font-size: 60px;
+    color: black;
+    position: relative;
+    border: 3px solid grey;
+    background-color: white;
+    border-radius: 10px;
+    width: 380px;
+    height: 200px;
+    margin: 20px;
+
+}
+.score .badge {
+    position: absolute;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    border: 3px solid grey;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+}
+.score .badge#p1 {
+    background-color: red;
+    top: 70px;
+    left: -26px;
+}
+.score .badge#p2 {
+    background-color: blue;
+    top: 70px;
+    left: 300px;
+}
