@@ -1,4 +1,4 @@
-#**Welcome to Jim's webprojects.**
+**Welcome to Jim's webprojects.**
 
 This is a repo for all of my projects pertaining to html/css/javascript. Enjoy!
 
