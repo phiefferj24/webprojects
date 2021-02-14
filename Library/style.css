@@ -1,0 +1,7 @@
+td, th {
+    border: 1px solid grey;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    height: 20px;
+    width: 100px;
+    line-height: 20px;
+}
