@@ -2,4 +2,4 @@
 
 This is a repo for all of my projects pertaining to html/css/javascript. Enjoy!
 
-[Click me]() to go to the webpage.
+[Click me](https://phiefferj24.github.io/odin/) to go to the webpage.
